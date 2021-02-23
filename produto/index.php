@@ -1,1 +1,1 @@
-<? echo 'produtos' ?>
+<? echo 'produtos'; ?>
